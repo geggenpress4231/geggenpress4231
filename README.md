@@ -6,7 +6,18 @@
 - 💬 **Ask me about Data Analytics, Python, Java,** ☕ and brewing the perfect cup of coffee.
 - 📫 **How to reach me:** [✉️ ami.utsarabbani@gmail.com](mailto:ami.utsarabbani@gmail.com)
 - 😄 **Pronouns:** He/Him 🙋‍♂️
-- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 and airplanes geek ✈️.
+- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan..
 
-Feel free to reach out for collaborations or just a chat about tech, airplanes, photography, or anything in between! 🌟
+Tools Arsenal-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+Feel free to reach out for collaborations or just a chat about tech, airplanes, photography, football or anything in between! 🌟
 
