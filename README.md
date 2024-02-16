@@ -1,4 +1,4 @@
-### Hi there, this is Utsa 👋
+<h2 align="center">Hi there, this is Utsa 👋</h2>
 
 - 🔭 **I’m currently unleashing my full-stack superpowers** 🚀 at **MIREMS Ltd.**, crafting and improving interfaces and streamlining data flows.
 - 🌱 **Expanding my brain with Machine Learning** 🧠, diving deep into the neural network abyss with TensorFlow & PyTorch.
@@ -6,7 +6,7 @@
 - 💬 **Ask me about Data Analytics, Python, Java,** ☕ and brewing the perfect cup of coffee.
 - 📫 **How to reach me:** [✉️ ami.utsarabbani@gmail.com](mailto:ami.utsarabbani@gmail.com)
 - 😄 **Pronouns:** He/Him 🙋‍♂️
-- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan..
+- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan ⚽..
 
 Tools Arsenal-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
