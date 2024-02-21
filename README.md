@@ -5,7 +5,6 @@
 - 👯 **Looking to collaborate on innovative projects** 💡 that challenge the status quo in tech.
 - 💬 **Ask me about Data Analytics, Python, Java,** ☕ and brewing the perfect cup of coffee.
 - 📫 **How to reach me:** [✉️ ami.utsarabbani@gmail.com](mailto:ami.utsarabbani@gmail.com)
-- 😄 **Pronouns:** He/Him 🙋‍♂️
 - ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan ⚽..
 
 Tools Arsenal-
