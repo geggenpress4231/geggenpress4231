@@ -7,7 +7,7 @@
 - 📫 **How to reach me:** [✉️ ami.utsarabbani@gmail.com](mailto:ami.utsarabbani@gmail.com)
 - ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan ⚽..
 
-Tools Arsenal-
+##Tools Arsenal-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
