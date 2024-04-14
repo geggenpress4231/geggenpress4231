@@ -5,7 +5,7 @@
 - 👯 **Looking to collaborate on innovative projects** 💡 that challenge the status quo in tech.
 - 💬 **Ask me about Data Analytics, Python, Java,** ☕ and brewing the perfect cup of coffee.
 - 📫 **How to reach me:** [✉️ ami.utsarabbani@gmail.com](mailto:ami.utsarabbani@gmail.com)
-- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplanes geek ✈️ and a huge football fan ⚽..
+- ⚡ **Fun fact:** Apart from coding, I'm a photographer 📸 airplane geek ✈️ and a huge football fan ⚽..
 
 ## 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
